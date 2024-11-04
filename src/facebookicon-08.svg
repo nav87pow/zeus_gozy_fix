@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 9.03 Build 54978)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="14px"
+	 height="14.506px" viewBox="0 0 14 14.506" enable-background="new 0 0 14 14.506" xml:space="preserve">
+<g id="Layer_1" display="none">
+	<g display="inline">
+		<defs>
+			
+				<rect id="SVGID_1_" x="-86.989" y="-997.074" transform="matrix(-1 -4.489266e-11 4.489266e-11 -1 241.4203 -590.0101)" width="415.399" height="1404.138"/>
+		</defs>
+		<clipPath id="SVGID_00000171701083723722375450000011875823740301436083_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		
+			<g transform="matrix(1 0 0 1 1.220703e-04 1.220703e-04)" clip-path="url(#SVGID_00000171701083723722375450000011875823740301436083_)">
+			
+				<image overflow="visible" width="2038" height="1358" xlink:href="../insp/insp.png"  transform="matrix(-0.9216 0.3881 0.3881 0.9216 1133.0581 -1650.2487)">
+			</image>
+		</g>
+	</g>
+</g>
+<g id="Layer_2">
+	<g>
+	</g>
+	<g>
+		<path fill="#FF7E10" d="M8.06,14.205V9.467h1.58L9.94,7.506H8.06V6.233c0-0.536,0.263-1.06,1.104-1.06h0.855V3.506
+			c0,0-0.775-0.132-1.518-0.132c-1.55,0-2.562,0.938-2.562,2.638v1.494H4.218v1.961H5.94v4.738
+			c-3.242-0.509-5.722-3.314-5.722-6.699C0.219,3.76,3.254,0.725,7,0.725s6.781,3.035,6.781,6.781
+			C13.781,10.891,11.302,13.696,8.06,14.205z"/>
+	</g>
+</g>
+</svg>
