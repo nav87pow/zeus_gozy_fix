@@ -37,7 +37,7 @@ All design and development were done by me.
 
 Here is a visual preview of the live site:
 
-![Zeus Fix – site mockup](assets/zeus.jpg)
+![Zeus Fix – site mockup](zeus.jpg)
 
 > *(The image `zeus.jpg` is located in the `assets/` folder)*
 
