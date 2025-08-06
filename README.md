@@ -4,18 +4,19 @@
 
 **Live site**: [https://zeusfix.me](https://zeusfix.me)
 
-A responsive one-page website built for a freelancer technician specializing in low-voltage electrical systems — including camera installation and maintenance services.  
-This website acts as a live business card and main contact hub for clients.
+A responsive one-page website built for an independent low-voltage technician, specializing in electrical systems such as camera installation and maintenance.  
+The site functions as a digital business card, providing clients with a clear overview of services and direct contact options.
 
 In addition to development, I also designed the **brand identity** — including the logo, color scheme, visual assets, and print materials.
 
+---
 ---
 
 ## 🛠️ Website Features
 
 - **Fully responsive** – mobile-first layout, also optimized for desktop
 - **Single-page layout** – fast loading, no navigation overhead
-- **Call-to-action buttons** – phone call, WhatsApp message, and social media
+- **Direct contact links** – phone, WhatsApp, and social media
 - **Simple HTML/CSS** – lightweight and framework-free
 - **Live and maintained** – used in production by the business owner
 
