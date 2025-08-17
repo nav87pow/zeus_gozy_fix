@@ -43,4 +43,4 @@ All design and development were done by me.
 .
 ├── index.html         # Main HTML file
 ├── style.css          # Main stylesheet
-├── assets/            # Images, icons, and mockup (zeus.jpg)
+├── assets/            # Images, icons(zeus.jpg)
